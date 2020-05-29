@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792993698124",
+    "firebase_url": "https://ecomadmi.firebaseio.com",
+    "project_id": "ecomadmi",
+    "storage_bucket": "ecomadmi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792993698124:android:b8d76170e4b5bfdaa43fe9",
+        "android_client_info": {
+          "package_name": "dubois.ecomeradmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792993698124-b6ecukrtd105obh1jjp9hnrd23urae0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dubois.ecomeradmi",
+            "certificate_hash": "57eee1b027e3f3af8e2f683dc3bd4281d8236d22"
+          }
+        },
+        {
+          "client_id": "792993698124-ub4jqsvaiju7ihordgfg8bf6lbepedga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcROlQ51jYJldXjuDm0BIqPi_LBwWho08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792993698124-ub4jqsvaiju7ihordgfg8bf6lbepedga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
